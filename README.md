@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, computer architecture, gaming and sleeping.😜
 - 🌱 I’m currently pursuing B. Tech. degree in CSE from IITB.
 - 💞️ I’m looking to collaborate in field of Computer Architecture and digital logics, AI & ML. (and exploring further interests).
-- 📫 How to reach me ... email: sanojsvijendra@gmail.com. I may not resopnd to emails instantly (sometimes even for years). I am very busy in breathing out CO2 for plants and sleeping.😊
+- 📫 How to reach me ... email: sanojsvijendra@gmail.com. I may not respond to emails instantly (sometimes even for years). I am very busy in breathing out CO2 for plants and sleeping.😊
 
 <!---
 Sanoj-S-Vijendra/Sanoj-S-Vijendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
